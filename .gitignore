@@ -10,5 +10,6 @@ __pycache__/
 .vscode/
 .idea/
 
+#Ignorar archivos de datos
 .parquet
 *.parquet
